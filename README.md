@@ -1,3 +1,3 @@
 # BATA
-simple
+#simple
 shutdown /s /f /t 0
